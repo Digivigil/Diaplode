@@ -8,7 +8,7 @@ To be released here once [pre alpha conditions](./PAC.md) are met
 
 ## For the adventurous
 
-Currently living [here](https://github.com/ephedrandrox/balek/tree/diaplode-main) in a pre-pre-alpha multiple branch state
+Currently living [here](https://github.com/ephedrandrox/balek/tree/diaplode-main) as a pre-pre-alpha branch of Balek
 
 
 ![Diaplode Logo](./resources/diaplode.svg) 
